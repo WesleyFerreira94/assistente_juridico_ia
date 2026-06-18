@@ -4,7 +4,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 Meu LinkedIn: www.linkedin.com/in/wesley-ferreira-leite
 
-===================================================================================================================================================================================================================
 
 # 🎓 Projeto de Extensão: Assistente Jurídico com Inteligência Artificial
 
